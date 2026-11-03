@@ -1,0 +1,588 @@
+{
+  "orderSeq": 10242,
+  "products": [
+    {
+      "id": "sf911581",
+      "name": "Test1",
+      "category": "Sports",
+      "price": 3900,
+      "oldPrice": 3900,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "imageUrls": [
+        "https://rukminim2.flixcart.com/image/480/640/xif0q/shoe/j/d/e/9-dgp1997-9-0-icurem-white-resized-original-imahcsqahsfzvvem.jpeg?q=90"
+      ],
+      "images": [
+        {
+          "url": "https://rukminim2.flixcart.com/image/480/640/xif0q/shoe/j/d/e/9-dgp1997-9-0-icurem-white-resized-original-imahcsqahsfzvvem.jpeg?q=90",
+          "position": "Front"
+        }
+      ],
+      "description": "fvjf",
+      "badge": "cx",
+      "colors": [
+        "Black"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 3,
+      "isNew": true,
+      "listed": true,
+      "reviews": []
+    },
+    {
+      "id": "sf866616",
+      "name": "Test",
+      "category": "Sneakers",
+      "price": 3500,
+      "oldPrice": 3500,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "imageUrls": [
+        "https://www.campusshoes.com/cdn/shop/files/FIRST_11G-787_WHT-VORNG_01.webp?v=1763546762"
+      ],
+      "images": [
+        {
+          "url": "https://www.campusshoes.com/cdn/shop/files/FIRST_11G-787_WHT-VORNG_01.webp?v=1763546762",
+          "position": "Front"
+        }
+      ],
+      "description": "cvj",
+      "badge": "dfk",
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 8,
+      "isNew": true,
+      "listed": true,
+      "reviews": []
+    },
+    {
+      "id": "sf686719",
+      "name": "Sports Shoe",
+      "category": "Sneakers",
+      "price": 2600,
+      "oldPrice": 2600,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "imageUrls": [
+        "https://assets.myntassets.com/w_200,q_50,,dpr_3,fl_progressive,f_webp/assets/images/2026/AUGUST/12/o4zjIdCs_f71951ac3e6e4324b6dd7ff8f19e80e0.jpg",
+        "https://offlimits.co.in/cdn/shop/files/2_decf10df-089d-4909-8e78-a1cbc8eb204b.jpg?v=1788420456",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUxpQ9aFJ3VzELJ9F6Lq7mNZtk4wBu2FjXeMLXgEFmQ&s=10"
+      ],
+      "images": [
+        {
+          "url": "https://assets.myntassets.com/w_200,q_50,,dpr_3,fl_progressive,f_webp/assets/images/2026/AUGUST/12/o4zjIdCs_f71951ac3e6e4324b6dd7ff8f19e80e0.jpg",
+          "position": "Front"
+        },
+        {
+          "url": "https://offlimits.co.in/cdn/shop/files/2_decf10df-089d-4909-8e78-a1cbc8eb204b.jpg?v=1788420456",
+          "position": "Front"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUxpQ9aFJ3VzELJ9F6Lq7mNZtk4wBu2FjXeMLXgEFmQ&s=10",
+          "position": "Side"
+        }
+      ],
+      "description": "Mens Sports shoe",
+      "badge": null,
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 5,
+      "isNew": true,
+      "listed": true,
+      "reviews": []
+    },
+    {
+      "id": "sf489279",
+      "name": "Court Classic",
+      "category": "Sneakers",
+      "price": 3499,
+      "oldPrice": 3499,
+      "rating": 4.5,
+      "reviewCount": 0,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80"
+      ],
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+          "position": "Front"
+        }
+      ],
+      "description": "A clean court shoe for everyday wear.",
+      "badge": null,
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 12,
+      "isNew": true,
+      "listed": true,
+      "reviews": []
+    }
+  ],
+  "branches": [
+    {
+      "id": "tvm",
+      "name": "Trivandrum Central",
+      "address": "MG Road, Thiruvananthapuram",
+      "hours": "Open today · 10:00 AM–9:00 PM",
+      "phone": "0471 555 0101"
+    },
+    {
+      "id": "kochi",
+      "name": "Kochi Marine Drive",
+      "address": "Marine Drive, Kochi",
+      "hours": "Open today · 10:00 AM–9:30 PM",
+      "phone": "0484 555 0118"
+    },
+    {
+      "id": "clt",
+      "name": "Calicut Main",
+      "address": "Mavoor Road, Kozhikode",
+      "hours": "Open today · 10:00 AM–9:00 PM",
+      "phone": "0495 555 0134"
+    }
+  ],
+  "notices": [
+    {
+      "id": "n1",
+      "title": "Your order is being prepared",
+      "body": "SF-10241 is being packed at Trivandrum Central.",
+      "timeLabel": "Today"
+    },
+    {
+      "id": "n2",
+      "title": "TREND10 is live this week",
+      "body": "Take 10% off your cart with code TREND10.",
+      "timeLabel": "Yesterday"
+    },
+    {
+      "id": "n3",
+      "title": "New sandals just landed",
+      "body": "Coastline Sandal and Monsoon Slide are in store and online.",
+      "timeLabel": "This week"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "account-shopper",
+      "name": "Shoe Factory Shopper",
+      "email": "shopper@shoefactory.shop",
+      "phone": "9876543210",
+      "passwordHash": "$2a$08$zQHBn6Df9EfdqsdbF0rI1.p50dZMPyNgg2Y6wW.kBUc3Ou/pI5kF.",
+      "addresses": []
+    }
+  ],
+  "devices": {
+    "device-1d7d3501-e31b-487b-81b1-0340f01664f7": {
+      "id": "device-1d7d3501-e31b-487b-81b1-0340f01664f7",
+      "linkedAccountId": null,
+      "cart": {
+        "items": [],
+        "couponCode": null
+      },
+      "wishlist": [],
+      "orders": [
+        {
+          "id": "SF-10241",
+          "placedAt": "2026-10-20T04:13:01.521Z",
+          "lines": [
+            {
+              "productId": "sf001",
+              "name": "Air Motion Runner",
+              "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 6499,
+              "color": "Red",
+              "size": 8,
+              "quantity": 1
+            },
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 10998,
+          "discount": 0,
+          "deliveryFee": 0,
+          "total": 10998,
+          "fulfilment": "delivery",
+          "paymentMethod": "upi",
+          "status": "preparing",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10182",
+          "placedAt": "2026-10-04T04:13:01.521Z",
+          "lines": [
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 4499,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 4548,
+          "fulfilment": "delivery",
+          "paymentMethod": "cod",
+          "status": "completed",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        }
+      ],
+      "readNoticeIds": []
+    },
+    "device-711aa9ef-be75-419d-9933-dada378ce68c": {
+      "id": "device-711aa9ef-be75-419d-9933-dada378ce68c",
+      "linkedAccountId": null,
+      "cart": {
+        "items": [],
+        "couponCode": null
+      },
+      "wishlist": [],
+      "orders": [
+        {
+          "id": "SF-10241",
+          "placedAt": "2026-10-20T04:21:41.336Z",
+          "lines": [
+            {
+              "productId": "sf001",
+              "name": "Air Motion Runner",
+              "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 6499,
+              "color": "Red",
+              "size": 8,
+              "quantity": 1
+            },
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 10998,
+          "discount": 0,
+          "deliveryFee": 0,
+          "total": 10998,
+          "fulfilment": "delivery",
+          "paymentMethod": "upi",
+          "status": "preparing",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10182",
+          "placedAt": "2026-10-04T04:21:41.336Z",
+          "lines": [
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 4499,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 4548,
+          "fulfilment": "delivery",
+          "paymentMethod": "cod",
+          "status": "completed",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        }
+      ],
+      "readNoticeIds": []
+    },
+    "device-4e1a71cc-6628-4b71-85e4-491625802227": {
+      "id": "device-4e1a71cc-6628-4b71-85e4-491625802227",
+      "linkedAccountId": null,
+      "cart": {
+        "items": [],
+        "couponCode": null
+      },
+      "wishlist": [],
+      "orders": [
+        {
+          "id": "SF-10241",
+          "placedAt": "2026-10-20T04:22:18.307Z",
+          "lines": [
+            {
+              "productId": "sf001",
+              "name": "Air Motion Runner",
+              "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 6499,
+              "color": "Red",
+              "size": 8,
+              "quantity": 1
+            },
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 10998,
+          "discount": 0,
+          "deliveryFee": 0,
+          "total": 10998,
+          "fulfilment": "delivery",
+          "paymentMethod": "upi",
+          "status": "preparing",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10182",
+          "placedAt": "2026-10-04T04:22:18.307Z",
+          "lines": [
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 4499,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 4548,
+          "fulfilment": "delivery",
+          "paymentMethod": "cod",
+          "status": "completed",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        }
+      ],
+      "readNoticeIds": []
+    },
+    "device-aa0b404d-7395-45fa-877a-4becc6696c5e": {
+      "id": "device-aa0b404d-7395-45fa-877a-4becc6696c5e",
+      "linkedAccountId": null,
+      "cart": {
+        "items": [],
+        "couponCode": null
+      },
+      "wishlist": [],
+      "orders": [
+        {
+          "id": "SF-10241",
+          "placedAt": "2026-10-20T04:40:11.751Z",
+          "lines": [
+            {
+              "productId": "sf001",
+              "name": "Air Motion Runner",
+              "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 6499,
+              "color": "Red",
+              "size": 8,
+              "quantity": 1
+            },
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 10998,
+          "discount": 0,
+          "deliveryFee": 0,
+          "total": 10998,
+          "fulfilment": "delivery",
+          "paymentMethod": "upi",
+          "status": "preparing",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10182",
+          "placedAt": "2026-10-04T04:40:11.751Z",
+          "lines": [
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 4499,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 4548,
+          "fulfilment": "delivery",
+          "paymentMethod": "cod",
+          "status": "completed",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        }
+      ],
+      "readNoticeIds": []
+    },
+    "device-7148143e-e328-4d5e-a3ad-bab22850f14b": {
+      "id": "device-7148143e-e328-4d5e-a3ad-bab22850f14b",
+      "linkedAccountId": null,
+      "cart": {
+        "items": [],
+        "couponCode": null
+      },
+      "wishlist": [],
+      "orders": [
+        {
+          "id": "SF-10241",
+          "placedAt": "2026-10-20T04:41:50.003Z",
+          "lines": [
+            {
+              "productId": "sf001",
+              "name": "Air Motion Runner",
+              "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 6499,
+              "color": "Red",
+              "size": 8,
+              "quantity": 1
+            },
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 10998,
+          "discount": 0,
+          "deliveryFee": 0,
+          "total": 10998,
+          "fulfilment": "delivery",
+          "paymentMethod": "upi",
+          "status": "preparing",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10182",
+          "placedAt": "2026-10-04T04:41:50.003Z",
+          "lines": [
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 4499,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 4548,
+          "fulfilment": "delivery",
+          "paymentMethod": "cod",
+          "status": "completed",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        }
+      ],
+      "readNoticeIds": []
+    }
+  },
+  "otps": {}
+}

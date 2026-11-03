@@ -1,0 +1,666 @@
+{
+  "orderSeq": 10243,
+  "products": [
+    {
+      "id": "sf001",
+      "name": "Air Motion Runner",
+      "category": "Sneakers",
+      "price": 6499,
+      "oldPrice": 7999,
+      "rating": 4.6,
+      "reviewCount": 128,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "Lightweight everyday sneakers with cushioned support, a breathable upper and a bold streetwear look.",
+      "badge": "BESTSELLER",
+      "colors": [
+        "Red",
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 8,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Light on the feet and easy to dress up or down."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "True to size. The cushioning holds up on long days."
+        }
+      ]
+    },
+    {
+      "id": "sf002",
+      "name": "Cloud Knit Sneaker",
+      "category": "Sneakers",
+      "price": 5299,
+      "oldPrice": 6499,
+      "rating": 4.5,
+      "reviewCount": 67,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A soft knit sneaker with a clean profile for workdays, weekends and everything between.",
+      "badge": null,
+      "colors": [
+        "White",
+        "Grey",
+        "Green"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 10,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "The knit upper feels soft from the first wear."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Looks sharp with both jeans and tailored trousers."
+        }
+      ]
+    },
+    {
+      "id": "sf003",
+      "name": "Urban Flex Trainer",
+      "category": "Sports",
+      "price": 8999,
+      "oldPrice": 11999,
+      "rating": 4.8,
+      "reviewCount": 96,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80",
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A versatile trainer built for movement, gym sessions and comfortable all-day wear.",
+      "badge": "25% OFF",
+      "colors": [
+        "Black",
+        "Green",
+        "Grey"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 6,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Excellent grip and the fit stays secure on runs."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Worth it. I wear them for training and travel."
+        }
+      ]
+    },
+    {
+      "id": "sf004",
+      "name": "Trail Pro Outdoor",
+      "category": "Sports",
+      "price": 7499,
+      "oldPrice": 8999,
+      "rating": 4.5,
+      "reviewCount": 61,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "Durable grip and dependable comfort for weekend trails and active days.",
+      "badge": "NEW",
+      "colors": [
+        "Brown",
+        "Black",
+        "Green"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 9,
+      "isNew": true,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Sturdy without feeling heavy. Great for weekend walks."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "The outsole grips well on wet paths."
+        }
+      ]
+    },
+    {
+      "id": "sf005",
+      "name": "Night Runner Pro",
+      "category": "Sports",
+      "price": 9999,
+      "oldPrice": 12999,
+      "rating": 4.9,
+      "reviewCount": 84,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1491553895911-0055eca6402d?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "Our most cushioned runner, with a responsive feel for daily miles and race day.",
+      "badge": "BESTSELLER",
+      "colors": [
+        "Black",
+        "Grey"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 3,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "The best cushioning I have worn from Shoe Factory."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Fast, stable and still comfortable after 10 km."
+        }
+      ]
+    },
+    {
+      "id": "sf006",
+      "name": "Classic Court Low",
+      "category": "Casual",
+      "price": 4499,
+      "oldPrice": 5499,
+      "rating": 4.4,
+      "reviewCount": 74,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A timeless low-top silhouette that pairs easily with your everyday wardrobe.",
+      "badge": null,
+      "colors": [
+        "White",
+        "Navy",
+        "Black"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 14,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Clean look. I sized up by half and they are perfect."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "A reliable everyday pair. The leather is wearing in nicely."
+        }
+      ]
+    },
+    {
+      "id": "sf007",
+      "name": "Everyday Slip-On",
+      "category": "Casual",
+      "price": 2999,
+      "oldPrice": 3499,
+      "rating": 4.3,
+      "reviewCount": 48,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "Easy to wear and easy to style. A relaxed slip-on for errands and travel days.",
+      "badge": null,
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 20,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Slips on easily and still feels supported."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Bright colour, exactly as pictured."
+        }
+      ]
+    },
+    {
+      "id": "sf008",
+      "name": "Weekend Boot",
+      "category": "Casual",
+      "price": 3999,
+      "oldPrice": 4999,
+      "rating": 4.2,
+      "reviewCount": 58,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1514989940723-e8e51635b782?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A rugged boot with a soft lining for cooler days, denim and weekend plans.",
+      "badge": null,
+      "colors": [
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 7,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Solid build. They needed one wear to soften up."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Comfortable for a full day around the city."
+        }
+      ]
+    },
+    {
+      "id": "sf009",
+      "name": "Executive Formal",
+      "category": "Formal",
+      "price": 5999,
+      "oldPrice": 6999,
+      "rating": 4.7,
+      "reviewCount": 53,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A polished formal shoe with a refined profile for work, celebrations and special occasions.",
+      "badge": null,
+      "colors": [
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 7,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Looks expensive and feels comfortable in the office."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Elegant finish. The brown colour is rich."
+        }
+      ]
+    },
+    {
+      "id": "sf010",
+      "name": "Heritage Loafer",
+      "category": "Formal",
+      "price": 6799,
+      "oldPrice": 7999,
+      "rating": 4.6,
+      "reviewCount": 41,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1614252369475-5312f9b6c2f5?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A leather loafer with a quiet shape that works from meetings to dinner.",
+      "badge": null,
+      "colors": [
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "stock": 6,
+      "isNew": false,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Smart without being stiff. I wear them every week."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Beautiful leather. Take your usual size."
+        }
+      ]
+    },
+    {
+      "id": "sf011",
+      "name": "Coastline Sandal",
+      "category": "Sandals",
+      "price": 1999,
+      "oldPrice": 2499,
+      "rating": 4.4,
+      "reviewCount": 39,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1603487742131-4160ec999306?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "An easy warm-weather sandal with a cushioned footbed and an adjustable strap.",
+      "badge": "NEW",
+      "colors": [
+        "Beige",
+        "Brown",
+        "Black"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 11,
+      "isNew": true,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 5,
+          "comment": "Comfortable straight out of the box."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "The strap holds well on long walks."
+        }
+      ]
+    },
+    {
+      "id": "sf012",
+      "name": "Monsoon Slide",
+      "category": "Sandals",
+      "price": 1499,
+      "oldPrice": 1899,
+      "rating": 4.1,
+      "reviewCount": 33,
+      "imageUrls": [
+        "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=80"
+      ],
+      "description": "A quick-dry slide for rain, home and everything in between.",
+      "badge": "TRENDING",
+      "colors": [
+        "Green",
+        "Black",
+        "Beige"
+      ],
+      "sizes": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "stock": 4,
+      "isNew": true,
+      "reviews": [
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Light and easy to rinse after the rain."
+        },
+        {
+          "author": "Verified buyer",
+          "rating": 4,
+          "comment": "Good grip on wet tile."
+        }
+      ]
+    }
+  ],
+  "branches": [
+    {
+      "id": "tvm",
+      "name": "Trivandrum Central",
+      "address": "MG Road, Thiruvananthapuram",
+      "hours": "Open today · 10:00 AM–9:00 PM",
+      "phone": "0471 555 0101"
+    },
+    {
+      "id": "kochi",
+      "name": "Kochi Marine Drive",
+      "address": "Marine Drive, Kochi",
+      "hours": "Open today · 10:00 AM–9:30 PM",
+      "phone": "0484 555 0118"
+    },
+    {
+      "id": "clt",
+      "name": "Calicut Main",
+      "address": "Mavoor Road, Kozhikode",
+      "hours": "Open today · 10:00 AM–9:00 PM",
+      "phone": "0495 555 0134"
+    }
+  ],
+  "notices": [
+    {
+      "id": "n1",
+      "title": "Your order is being prepared",
+      "body": "SF-10241 is being packed at Trivandrum Central.",
+      "timeLabel": "Today"
+    },
+    {
+      "id": "n2",
+      "title": "TREND10 is live this week",
+      "body": "Take 10% off your cart with code TREND10.",
+      "timeLabel": "Yesterday"
+    },
+    {
+      "id": "n3",
+      "title": "New sandals just landed",
+      "body": "Coastline Sandal and Monsoon Slide are in store and online.",
+      "timeLabel": "This week"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "account-shopper",
+      "name": "Shoe Factory Shopper",
+      "email": "shopper@shoefactory.shop",
+      "phone": "9876543210",
+      "passwordHash": "$2a$08$.V2121dHqJ3X4Aqvv3JbS.1t/XE2UApk2280/3K3JxCS1e.ouWAqO",
+      "addresses": [
+        {
+          "id": "addr-home",
+          "label": "Home",
+          "name": "Shoe Factory Shopper",
+          "phone": "9876543210",
+          "line": "12, MG Road",
+          "city": "Thiruvananthapuram",
+          "pincode": "695001",
+          "isDefault": true
+        }
+      ]
+    }
+  ],
+  "devices": {
+    "device-a2292a03-dbbf-4b0f-97c6-5e13bfc25ce6": {
+      "id": "device-a2292a03-dbbf-4b0f-97c6-5e13bfc25ce6",
+      "linkedAccountId": "account-shopper",
+      "cart": {
+        "items": [],
+        "couponCode": null
+      },
+      "wishlist": [],
+      "orders": [
+        {
+          "id": "SF-10242",
+          "placedAt": "2026-10-22T04:01:24.901Z",
+          "lines": [
+            {
+              "productId": "sf007",
+              "name": "Everyday Slip-On",
+              "imageUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 2999,
+              "color": "Black",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 2999,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 3048,
+          "fulfilment": "delivery",
+          "paymentMethod": "razorpay",
+          "status": "confirmed",
+          "destination": "12, MG Road, Kochi 682001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10241",
+          "placedAt": "2026-10-20T04:01:24.840Z",
+          "lines": [
+            {
+              "productId": "sf001",
+              "name": "Air Motion Runner",
+              "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 6499,
+              "color": "Red",
+              "size": 8,
+              "quantity": 1
+            },
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 10998,
+          "discount": 0,
+          "deliveryFee": 0,
+          "total": 10998,
+          "fulfilment": "delivery",
+          "paymentMethod": "upi",
+          "status": "preparing",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        },
+        {
+          "id": "SF-10182",
+          "placedAt": "2026-10-04T04:01:24.840Z",
+          "lines": [
+            {
+              "productId": "sf006",
+              "name": "Classic Court Low",
+              "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=900&q=80",
+              "unitPrice": 4499,
+              "color": "White",
+              "size": 8,
+              "quantity": 1
+            }
+          ],
+          "subtotal": 4499,
+          "discount": 0,
+          "deliveryFee": 49,
+          "total": 4548,
+          "fulfilment": "delivery",
+          "paymentMethod": "cod",
+          "status": "completed",
+          "destination": "12, MG Road, Thiruvananthapuram 695001",
+          "contactName": "Shoe Factory Shopper",
+          "contactPhone": "9876543210",
+          "couponCode": null,
+          "paymentReference": null
+        }
+      ],
+      "readNoticeIds": []
+    }
+  },
+  "otps": {
+    "9123456780": {
+      "code": "937652",
+      "expiresAt": "2026-10-22T04:06:24.904Z"
+    }
+  }
+}
